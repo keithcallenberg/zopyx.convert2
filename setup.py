@@ -37,7 +37,6 @@ setup(name='zopyx.convert2',
       zip_safe=False,
       install_requires=[
           'setuptools', 
-          'elementtree', 
           'BeautifulSoup', 
           'pisa', 
           'reportlab', 
